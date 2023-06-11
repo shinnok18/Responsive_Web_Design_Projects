@@ -1,0 +1,55 @@
+{
+    "products": [
+      {
+        "category": "Pants",
+        "name": "Men's Black Chinos",
+        "image": "images/pants1.jpg"
+      },
+      {
+        "category": "Shirts",
+        "name": "Men's Blue Shirt",
+        "image": "images/shirt1.jpg"
+      },
+      {
+        "category": "Coats",
+        "name": "Men's Saffron Coat",
+        "image": "images/coat1.jpg"
+      },
+      {
+        "category": "Pants",
+        "name": "Women's Dark Blue Denim Pants",
+        "image": "images/pants2.jpg"
+      },
+      {
+        "category": "Shirts",
+        "name": "Women's Saks Shirt Uzunkol Basic",
+        "image": "images/shirt2.jpg"
+      },
+      {
+        "category": "Coats",
+        "name": "Women's Beige Coat",
+        "image": "images/coat2.jpg"
+      },
+      {
+        "category": "Shirts",
+        "name": "Child Claret Red Shirt Long Sleeve",
+        "image": "images/shirt3.jpg"
+      },
+      {
+        "category": "Shirts",
+        "name": "Child Mustard Coat",
+        "image": "images/coat3.jpg"
+      },
+      {
+        "category": "Pants",
+        "name": "Kids Blue Denim Pants",
+        "image": "images/pants3.jpg"
+      },
+      {
+        "category": "Sweatpants",
+        "name": "Red Sweatpants",
+        "image": "images/sweat1.jpg"
+      }
+    ]
+  }
+  
